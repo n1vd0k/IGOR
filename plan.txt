@@ -1,0 +1,7 @@
+hello i'm eager i am intelligent assistant and i like to search copy bars
+
+Задание 1: Взлом пароля с помощью словаря
+Hashcat
+hashcat -m [хеш-тип] [файл хеша] [файл словаря]
+John The Ripper:
+john --wordlist=[файл словаря] --format=[хеш-тип] [файл хеша]
